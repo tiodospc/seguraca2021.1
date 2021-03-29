@@ -20,6 +20,14 @@ O proprio windows oferece nativamente esse recurso mas vamos usar uma ferramenta
     <li>Quand abrir o executavel clique em next até o final <img src='https://user-images.githubusercontent.com/31110504/112899921-2344e800-90b9-11eb-9d7f-7daf4aeaf26f.png'/></li>
     <li>Quando finalizar a instalação clique em 'finish' <img src='https://user-images.githubusercontent.com/31110504/112900491-f8a75f00-90b9-11eb-9d60-013ee30c67df.png'></li>
     <li>Reinicie o computador e execute novamente o programa instalado </li>
- 
-
 </ul>
+
+Nessas telas você poderia ver e bloquear Aplicações, Processos suspeitos, Ver Logs do firewall e Bloquer portar.
+<img src='https://user-images.githubusercontent.com/31110504/112901948-cdbe0a80-90bb-11eb-8f4c-528325f6bf8d.png'>
+<img src='https://user-images.githubusercontent.com/31110504/112902006-e3cbcb00-90bb-11eb-8a62-126ccd1d0911.png'>
+<img src='https://user-images.githubusercontent.com/31110504/112902084-01009980-90bc-11eb-8f05-e722195c9b37.png'>
+<img src='https://user-images.githubusercontent.com/31110504/112902381-6a80a800-90bc-11eb-8643-f55e8d5a837a.jpg'>
+<img src='https://user-images.githubusercontent.com/31110504/112902480-8e43ee00-90bc-11eb-8f04-00a92654b36a.jpg'>
+
+
+
