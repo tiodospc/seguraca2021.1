@@ -22,12 +22,12 @@ O proprio windows oferece nativamente esse recurso mas vamos usar uma ferramenta
     <li>Reinicie o computador e execute novamente o programa instalado </li>
 </ul>
 
-Nessas telas você poderia ver e bloquear Aplicações, Processos suspeitos, Ver Logs do firewall e Bloquer portar.
-<img src='https://user-images.githubusercontent.com/31110504/112901948-cdbe0a80-90bb-11eb-8f4c-528325f6bf8d.png'>
-<img src='https://user-images.githubusercontent.com/31110504/112902006-e3cbcb00-90bb-11eb-8a62-126ccd1d0911.png'>
-<img src='https://user-images.githubusercontent.com/31110504/112902084-01009980-90bc-11eb-8f05-e722195c9b37.png'>
-<img src='https://user-images.githubusercontent.com/31110504/112902381-6a80a800-90bc-11eb-8643-f55e8d5a837a.jpg'>
-<img src='https://user-images.githubusercontent.com/31110504/112902480-8e43ee00-90bc-11eb-8f04-00a92654b36a.jpg'>
+Nessas telas você poderia ver e bloquear Aplicações, Processos suspeitos, Ver Logs do firewall e Bloquer portas
+<img width='450' src='https://user-images.githubusercontent.com/31110504/112901948-cdbe0a80-90bb-11eb-8f4c-528325f6bf8d.png'>
+<img width='450' src='https://user-images.githubusercontent.com/31110504/112902006-e3cbcb00-90bb-11eb-8a62-126ccd1d0911.png'>
+<img width='450' src='https://user-images.githubusercontent.com/31110504/112902084-01009980-90bc-11eb-8f05-e722195c9b37.png'>
+<img width='450' src='https://user-images.githubusercontent.com/31110504/112902381-6a80a800-90bc-11eb-8643-f55e8d5a837a.jpg'>
+<img width='450' src='https://user-images.githubusercontent.com/31110504/112902480-8e43ee00-90bc-11eb-8f04-00a92654b36a.jpg'>
 
 
 
