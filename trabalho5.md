@@ -12,7 +12,8 @@ O proprio windows oferece nativamente esse recurso mas vamos usar uma ferramenta
  
 #Instalação PrivateFirewall
 
-<li>
+<ul>
     <li>Para fazer o download você pode entrar nesse link <a href='https://privatefirewall.br.uptodown.com/windows/download'>PrivateFirewall</a> e clique no botão Download</li>
-   
-</li>
+    ![Screenshot_3](https://user-images.githubusercontent.com/31110504/112899310-5fc41400-90b8-11eb-9c9c-010a8aceda06.png)
+
+</ul>
