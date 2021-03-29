@@ -14,5 +14,5 @@ O proprio windows oferece nativamente esse recurso mas vamos usar uma ferramenta
 
 <li>
     <li>Para fazer o download você pode entrar nesse link <a href='https://privatefirewall.br.uptodown.com/windows/download'>PrivateFirewall</a> e clique no botão Download</li>
-    <img src=''>
+   
 </li>
