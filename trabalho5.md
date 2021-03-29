@@ -18,7 +18,8 @@ O proprio windows oferece nativamente esse recurso mas vamos usar uma ferramenta
     </li>
     <li>Após isso e so abrir os Downloads e abrir o executavel que foi baixado</li>
     <li>Quand abrir o executavel clique em next até o final <img src='https://user-images.githubusercontent.com/31110504/112899921-2344e800-90b9-11eb-9d7f-7daf4aeaf26f.png'/></li>
-
+    <li>Quando finalizar a instalação clique em 'finish' <img src='https://user-images.githubusercontent.com/31110504/112900491-f8a75f00-90b9-11eb-9d60-013ee30c67df.png'></li>
+    <li>Reinicie o computador e execute novamente o programa instalado </li>
  
 
 </ul>
