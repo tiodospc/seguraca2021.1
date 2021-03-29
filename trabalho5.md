@@ -16,6 +16,9 @@ O proprio windows oferece nativamente esse recurso mas vamos usar uma ferramenta
     <li>Para fazer o download você pode entrar nesse link <a href='https://privatefirewall.br.uptodown.com/windows/download'>PrivateFirewall</a> e clique no botão Download
         <img src='https://user-images.githubusercontent.com/31110504/112899310-5fc41400-90b8-11eb-9c9c-010a8aceda06.png'/>
     </li>
+    <li>Após isso e so abrir os Downloads e abrir o executavel que foi baixado</li>
+    <li>Quand abrir o executavel clique em next até o final <img scr='https://user-images.githubusercontent.com/31110504/112899921-2344e800-90b9-11eb-9d7f-7daf4aeaf26f.png'/></li>
+
  
 
 </ul>
